@@ -6,6 +6,7 @@ Since there is a limitation of data fetching for individual Twitter API, current
 
 ## Results
 [Sentiment Analysis for Donald J. Trump](http://18.237.90.86:5000/realdonaldtrump)
+
 [Users followed by Donald J. Trump](http://18.237.90.86:5000/following/realdonaldtrump)
 
 
